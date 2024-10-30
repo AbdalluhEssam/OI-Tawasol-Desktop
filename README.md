@@ -1,6 +1,6 @@
 # OI Tawasol
 
-![Logo](<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/logo.png" width="150" height="150" alt="Screenshot 1">)
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/logo.png" width="150" height="150" alt="Logo">
 
 ## مقدمة
 تطبيق OI Tawasol هو تطبيق تعليمي مصمم لمساعدة الطلاب في الوصول إلى المعلومات الدراسية بسهولة وفعالية. يقدم التطبيق ميزات متعددة تتضمن معلومات الطلاب، الدروس، والمزيد.
