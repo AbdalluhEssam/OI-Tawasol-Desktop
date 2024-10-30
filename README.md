@@ -1,6 +1,6 @@
 # OI Tawasol
 
-![Logo](https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/logo.png)
+![Logo](<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/logo.png" width="150" height="150" alt="Screenshot 1">)
 
 ## مقدمة
 تطبيق OI Tawasol هو تطبيق تعليمي مصمم لمساعدة الطلاب في الوصول إلى المعلومات الدراسية بسهولة وفعالية. يقدم التطبيق ميزات متعددة تتضمن معلومات الطلاب، الدروس، والمزيد.
@@ -14,16 +14,16 @@
 ## لقطات الشاشة
 
 ### شاشة تسجيل الدخول
-<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot1.png" width="250" height="150" alt="Screenshot 1">
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot1.png"  height="300" alt="Screenshot 1">
 
 ### شاشة المعلومات الشخصية
-<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot2.png" width="250" height="150" alt="Screenshot 2">
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot2.png"  height="300" alt="Screenshot 2">
 
 ### شاشة الدروس
-<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot3.png" width="250" height="150" alt="Screenshot 3">
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot3.png"  height="300" alt="Screenshot 3">
 
 ### شاشة الإعدادات
-<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot4.png" width="250" height="150" alt="Screenshot 4">
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot4.png"  height="300" alt="Screenshot 4">
 
 ## تحميل التطبيق
 يمكنك تحميل التطبيق من الرابط التالي:
