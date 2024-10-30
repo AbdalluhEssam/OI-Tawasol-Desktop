@@ -14,16 +14,16 @@
 ## لقطات الشاشة
 
 ### شاشة تسجيل الدخول
-![Screenshot 1](https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot1.png =250x150)
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot1.png" width="250" height="150" alt="Screenshot 1">
 
 ### شاشة المعلومات الشخصية
-![Screenshot 2](https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot2.png =250x150)
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot2.png" width="250" height="150" alt="Screenshot 2">
 
 ### شاشة الدروس
-![Screenshot 3](https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot3.png =250x150)
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot3.png" width="250" height="150" alt="Screenshot 3">
 
 ### شاشة الإعدادات
-![Screenshot 4](https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot4.png =250x150)
+<img src="https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot4.png" width="250" height="150" alt="Screenshot 4">
 
 ## تحميل التطبيق
 يمكنك تحميل التطبيق من الرابط التالي:
