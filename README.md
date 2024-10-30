@@ -17,14 +17,8 @@
 ![Screenshot 3](https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot3.png)
 ![Screenshot 4](https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/screenshot4.png)
 
-## المتطلبات
-- Flutter 2.0 أو أحدث
-- Dart 2.12 أو أحدث
-- نظام تشغيل Windows، MacOS، أو Linux
 
-## التثبيت
-لتثبيت التطبيق، اتبع الخطوات التالية:
+## تحميل التطبيق
+يمكنك تحميل التطبيق من الرابط التالي:
+[تحميل OI Tawasol](https://github.com/AbdalluhEssam/OI-Tawasol-Desktop/raw/main/OI_Tawasol.exe)
 
-1. قم بتنزيل أو استنساخ المستودع:
-   ```bash
-   git clone https://github.com/AbdalluhEssam/oi_tawasol.git
